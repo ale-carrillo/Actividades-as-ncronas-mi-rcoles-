@@ -1,0 +1,12 @@
+Ejercicios para agregar a los reportes de la práctica 5 como actividad asíncrona del día Miércoles 4 de Noviembre del 2020 (pseudocódigo)
+Realizar un pseudocódigo que determine el color del semáforo COVID en base a una muestra de 100 individuos:
+    Si hay más de 80 individuos con COVID el color del semáforo es rojo
+    Si hay de 51 a 80 individuos con COVID el color del semáforo es naranja
+    Si hay de 1 a 50 individuos con COVID el color del semáforo es amarillo
+    Si no hay individuos con COVID el color del semáforo es verde
+Realizar un pseudocódigo que calcule dado un número el cálculo de su factorial:
+Ejemplo:
+    1! = 1
+    2! = 2
+    3! = 6
+    4! = 24
